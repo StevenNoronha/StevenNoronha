@@ -8,12 +8,7 @@ Hey there! I'm Steven, a web developer in the making, fueled by the MERN stack. 
 <br>
 <h3 align="center" style="color: #fe428e;font-size: 30px;font-family: monospace;">My Projects:</h3>
 
-- Peer-to-peer video communication: [View Project](https://p-to-p-video-client.onrender.com/)
-- AURA website: [View Project](https://aura-git.vercel.app/)
-- Chat App: [View Project](https://chat-client-kb.vercel.app/)
-- E-Commerce App: [View Project](https://e-com-app-kb.vercel.app/)
-- CSE-Repo App: [View Project](https://cse-repo.vercel.app/)
-- Photographer portfolio website: [View Project](https://debratnaghosh.github.io/debratnaghosh/)
+
 
 
 <hr>
